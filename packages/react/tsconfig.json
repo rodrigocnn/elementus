@@ -12,6 +12,7 @@
     "resolveJsonModule": true,
     "baseUrl": "./src",
     "paths": {
+      "@elementus/react": ["../packages/react"],
       "@elementus/tokens": ["../tokens"]
     }
   },

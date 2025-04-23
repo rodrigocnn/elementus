@@ -1,7 +1,7 @@
 import React from "react";
 import { colors, spacing, fonts } from "@elementus/tokens";
 
-interface ButtonProps {
+export interface ButtonProps {
   label: string;
   onClick: () => void;
 }
