@@ -1,0 +1,16 @@
+{
+  "name": "Elementus",
+  "version": "1.0.0",
+  "description": "Elementus - Design System React ",
+  "main": "index.js",
+  "author": "Rodrigo César",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.5.0"
+  }
+}
